@@ -1,0 +1,7 @@
+.nounderline {
+  text-decoration: none !important
+}
+
+#app-name {
+	font-weight: bold;
+}
